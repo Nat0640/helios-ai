@@ -1,0 +1,11 @@
+# เส้นทางไปยังโฟลเดอร์ train และ val (สัมพันธ์กับตำแหน่งที่รันโค้ด)
+path: ./data  # บอกว่าฐานข้อมูลอยู่ที่โฟลเดอร์ data
+train: images/train
+val: images/val
+
+# ชื่อของ Class ที่เราทำ Label ไว้
+names:
+  0: hotspot 
+  1: diode
+  2: soil
+  3: string

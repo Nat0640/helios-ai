@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+data/
+New folder/
+runs/
+.venv/
+ENV/
+env/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+
+# Other
+.DS_Store
+data/
+New folder/
+runs/
